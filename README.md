@@ -1,7 +1,7 @@
 # NODE.js express
 
-![alt text](nodejs.png "Bootstrap 5")
+nodejs.png
 
-![alt text](nodejsexpress.png "Bootstrap 5")
+nodejsexpress.png
 
-![alt text](heroku.png "Bootstrap 5")
+heroku.png
